@@ -439,6 +439,6 @@ Courses
 -------------------------
 
 - Additional Information
-	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
+	- Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
 
 --------------------------
